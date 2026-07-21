@@ -1,4 +1,5 @@
-#include <iostream>
+#variables and datatypes
+#include <iostream>               
 using namespace std;
 
 int main() {
